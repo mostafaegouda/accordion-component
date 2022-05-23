@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "359f37f7b662c81805631e04f0a04e96",
+    "revision": "cb812b14a0ed9f96401c95df64afc803",
     "url": "/accordion-component/index.html"
   },
   {
-    "revision": "48f0a3b53fb1c503b2fe",
-    "url": "/accordion-component/static/css/main.4b589e59.chunk.css"
+    "revision": "80e6420cf2cf878753de",
+    "url": "/accordion-component/static/css/main.b9f70739.chunk.css"
   },
   {
     "revision": "11e2b97d487a12b7b136",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/accordion-component/static/js/2.f745c462.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48f0a3b53fb1c503b2fe",
+    "revision": "80e6420cf2cf878753de",
     "url": "/accordion-component/static/js/main.a6be6ed4.chunk.js"
   },
   {
