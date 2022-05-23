@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import data from "./data";
-import SingleQuestion from "./Question";
+import Question from "./Question";
 function App() {
   return (
     <main>
@@ -9,7 +9,7 @@ function App() {
         <section className="info">
           {data.map((question) => {
             const { id, title, info } = question;
-            return <SingleQuestion title={title} info={info} key={id} />;
+            return <Question title={title} info={info} key={id} />;
           })}
         </section>
       </div>
